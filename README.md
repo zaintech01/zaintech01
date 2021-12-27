@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 <img src="https://gpvc.arturio.dev/zaintech01"></h1>
 <h3 align="center">I'm a guy who likes to learn coding and other tech related stuff</h3>
-<h3 align="center">I'm currently a student at both vocational college and high school.</h3>
+<h3 align="center">I'm currently Doing Bachelors In Zoology.</h3>
 <h3 align="center">Hit me up on DC if ya wanna get in touch "zaintech01".</h3>
 <br>
 <p align="center">
